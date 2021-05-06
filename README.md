@@ -55,6 +55,7 @@ function Xplayer {
 		// call checkForWin 
 		// call Oplayer
 }
+
 3.
 2¹-¹+2²-¹+2³-¹+2⁴-¹+2⁵-¹+2⁶-¹+2⁷-¹
 2°+2¹+2²+2³+2⁴+2⁵+2⁶
