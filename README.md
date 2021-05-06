@@ -1,4 +1,5 @@
-1.function createBoard (cellsArray) {
+1.
+function createBoard (cellsArray) {
     cellsArray = [, , , , X, , , , ];
 }
 
